@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <span>Francisco</span> 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://media.istockphoto.com/id/1185862852/es/vector/ilustraci%C3%B3n-de-direcci%C3%B3n-de-flechas-abstractas.jpg?s=1024x1024&w=is&k=20&c=82QHu0-N5JifZuU6URPY1AbymiMGobvz8AOAJESu32I=)">
+<img src="https://drive.google.com/uc?export=view&id=1mmWvAy2kj31CJa4ZYiORtH0hRtBgKbYo">
 
 ## Sobre mi
 

@@ -17,13 +17,10 @@ Love both frontend and backend development.
     <td width="50%">
     <h3 align="center">Emanager</h3>
     <div align="center">
-      <a href="https://github.com/fperezdev/emanager-backend" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+      <a href="https://github.com/fperezdev/emanager-backend" target="_blank"><img src="https://drive.google.com/uc?export=view&id=16gh78u1iGxKCxAKfwMk9MDG5r5ocVCmu" width="400" alt="Curso básico android"></a>
       <p>
       <a href="https://github.com/fperezdev/emanager-backend" target="_blank">
       <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-      <a href="https://github.com/fperezdev/emanager-backend">
-      <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
       </a>
       </p>
       <p>Capture incoming emails from your Gmail inbox and then classify the message text using

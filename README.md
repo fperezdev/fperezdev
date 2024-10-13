@@ -7,7 +7,7 @@
 
 I'm Ingeniero en Computación e Informática, graduate from Universidad Andres Bello in 2023. <br><br>
 I have 3 years of experience as a Software Engineer in a startup, being part of multidisciplianry teams,
-participating in the conception of new projects, their solutions designs and their development. <br><br>
+participating in the conception of new projects, designing solutions and developing them. <br><br>
 I love both frontend and backend development.
 <br>
 

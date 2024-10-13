@@ -11,7 +11,7 @@ participating in the conception of new projects, designing solutions and develop
 Love both frontend and backend development.
 <br>
 
-## 📂  Projects 
+## 🗂️  Projects 
 <table>
   <tr>
     <td width="50%">
@@ -23,9 +23,9 @@ Love both frontend and backend development.
       <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
       </p>
-      <p>Capture incoming emails from your Gmail inbox and then classify the message text using
-        Natural Language API from GCP, labeling the messages and finally showing only the messages
-        with categories chosen by the user in a desktop app.</p>
+      <p>Capture emails from user's Gmail inbox, classify their content using
+        Natural Language API from GCP. Finally show only the messages with 
+        classifications chosen by user in a desktop app.</p>
         <img src="https://img.shields.io/badge/Cloud%20SQL-gray?logo=googlecloud&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-gray?logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/GKE-gray?logo=kubernetes&logoColor=white">

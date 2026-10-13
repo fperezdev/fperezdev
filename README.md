@@ -22,9 +22,13 @@ in writing, no calls required.
 
 ### Featured
 
-**[ai-automation-demos](https://github.com/fperezdev/ai-automation-demos)** — production-style
-n8n + LLM workflows (invoice extraction, lead scoring, AI support agent) with importable JSON,
-sample data and architecture notes.
+**[ai-automation-suite](https://github.com/fperezdev/ai-automation-suite)** — a 4-module AI
+automation suite for SMBs on **n8n + an LLM**: a WhatsApp RAG assistant with human handoff,
+invoice (PDF) extraction with business-rule validation, lead capture + AI scoring, and a
+webchat support agent. Runs with a single command and no API keys (deterministic mock LLM
+included), with docs and a reproducible 12-check smoke test over real HTTP.
+
+→ **Live demo:** https://fperezdev.github.io/ai-automation-suite/
 
 ### How I work
 

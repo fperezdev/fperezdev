@@ -38,7 +38,7 @@ included), with docs and a reproducible 12-check smoke test over real HTTP.
 
 ### Contact
 
-- **Upwork:** https://www.upwork.com/freelancers/~0160d632f66de854da
+- **Portfolio / live demo:** https://fperezdev.github.io/ai-automation-suite/
 - **Workana:** https://www.workana.com/freelancer/bb457201c64a7fe99c5cc2c6f555dead
 - **Email:** fperez.sdev@gmail.com
 
